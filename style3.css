@@ -243,26 +243,10 @@ top: -90px;left: 45px;
         width: 100%;
         margin: 10px 0;
     }
- 
-    .foot {
-        gap: 10px;
-
-    }
-   
-    
-
-    .foot .icon,
-    .foot .icon1,
-    .foot .icon2 {
-        font-size: 1.2em;
-    }
-}
-
 
 @media screen and (max-width: 768px) {
     .image img {
         width: 80%; /* Further increase size for small devices */
     }
 }
-
-
+}
